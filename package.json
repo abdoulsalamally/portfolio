@@ -4,6 +4,7 @@
   "description": "Abdoul Salam Ally's portfolio",
   "version": "0.1.0",
   "author": "Abdoul Salam Ally <abdelsalami2016@gmail.com>",
+  "homepage": "https://abdoulsalamally.github.io/portfolio/",
   "dependencies": {
     "apollo-boost": "^0.4.9",
     "colorthief": "^2.3.0",
@@ -41,7 +42,9 @@
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "predeploy":"npm build",
+    "deploy":"gh-pages -d build"
   },
   "repository": {
     "type": "git",
