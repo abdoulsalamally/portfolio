@@ -1,14 +1,15 @@
 module.exports = {
+  pathPrefix: "/portfolio",
   siteMetadata: {
-    title: `Pratik Shivaraikar`,
-    description: `Software Engineer. Pratik Shivaraikar's personal website.`,
-    author: `Pratik Shivaraikar <pratik.shivaraikar@gmail.com>`,
-    siteUrl: `https://pratikms.com/`,
+    title: `Abdoul Salam Ally`,
+    description: `Software Engineer. Abdoul Salam Ally's personal website.`,
+    author: `Abdoul Salam Ally <abdoulsalamally@gmail.com>`,
+    siteUrl: `https://abdoulsalamally.github.io/portfolio`,
     siteLanguage: `en`,
     ogLanguage: `en`,
-    headline: `Pratik Shivaraikar`,
-    twitter: `@pmshivaraikar`,
-    facebook: `pratik.shivaraikar`,
+    headline: `Abdoul Salam Ally`,
+    twitter: `@abdoulsalamally`,
+    facebook: `abdoulsalamally`,
     banner: `/src/images/favicon.png`
   },
   plugins: [
@@ -25,8 +26,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Pratik Shivaraikar`,
-        short_name: `pratikms`,
+        name: `Abdoul Salam Ally`,
+        short_name: `AbdSalam`,
         start_url: `/`,
         background_color: `#0a192f`,
         theme_color: `#0a192f`,

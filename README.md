@@ -1,7 +1,6 @@
 # Portfolio
-[![Netlify Status](https://api.netlify.com/api/v1/badges/fd85c878-b40c-4359-bf7d-d28a003c3913/deploy-status)](https://app.netlify.com/sites/pratikms/deploys)
 
-The first iteration of [https://pratikms.com](https://pratikms.com) built with [Gatsby](https://www.gatsbyjs.org/) and hosted with [Netlify](https://www.netlify.com/)
+The first iteration of [Abdoul Salam Ally](https://github.com/abdoulsalamally) built with [Gatsby](https://www.gatsbyjs.org/) and hosted with [Github pages](https://github.com/)
 
 ## Getting Started 
 
