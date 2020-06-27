@@ -22,7 +22,7 @@ From your command line, clone and run portfolio:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/pratikms/portfolio.git
+$ git clone https://github.com/abdoulsalamally/portfolio.git
 
 # Go into the repository
 $ cd portfolio
